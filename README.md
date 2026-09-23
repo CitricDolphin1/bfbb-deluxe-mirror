@@ -8,7 +8,7 @@ The official source for Battle for Bikini Bottom Deluxe is the [Heavy Iron Moddi
 ## About this repo
 This repo provides access to the **Battle for Bikini Bottom Deluxe** mod, created by **Gravity**. I am not involved in its development in any way, and this repo exists only to provide easier access to the mod.
 
-In order to install the mod, you MUST use your own LEGALLY obtained dump of Battle For Bikini Bottom (NTSC) in ISO or RVZ format.
+In order to install the mod, you MUST use your own LEGALLY obtained dump of Battle For Bikini Bottom (NTSC). If using the xdelta files, it must be in iso or rvz format.
 
 The repo itself contains the mod files and tracks with official updates, beginning with v1.0.3.
 

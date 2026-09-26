@@ -19,4 +19,5 @@ The releases (to the right on desktop, or down on mobile) contain xdelta files. 
 Make sure you are using the US/America version of the game. PAL (Europe) dumps will not work. You can confirm you have the right files by comparing their sha-256 checksum against the following.
 
 RVZ: ```A1F1BEF27ED815015D431A697546CADC8FDF80A3BB10F43A5D36C1BA6410D838```
+
 ISO: ```43A7B28C70731364238BD6E8EF37D4EC4EDB049540F7F874DBDCBE30002DA5B4```

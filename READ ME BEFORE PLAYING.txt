@@ -1,0 +1,41 @@
+HELLOOOOOO!!!!!!!!!!!!!!
+
+Thank you for playing Battle for Bikini Bottom DELUXE!
+
+In case you haven't read it already, here are the installation instructions!
+
+==HOW TO PLAY BFBB DELUXE==
+
+--WHAT YOU WILL NEED--
+- The BFBB Deluxe .zip
+- A legally dumped SpongeBob SquarePants: Battle for Bikini Bottom GameCube .iso
+- Dolphin Emulator
+- Heavy Mod Manager
+- An empty folder to store game files
+
+--IMPORTANT NOTES BEFORE SETUP--
+- Be sure to save often, use autosave, and use save states! While the game has been rigorously checked for crashes, it's totally possible I missed something. 
+  Be aware that crashes may happen and you may lose progress if you aren't careful!
+- Following the last point, be sure to play with Panic Handlers enabled in Dolphin! If a crash does occur, you can try to hit "Ignore for this Session" and the game may continue like normal. 
+  You can enable Panic Handlers in Dolphin by going to Config -> Interface and ckecking "Use Panic Handlers" under "Render Window"
+- Be sure to bind your D-Pad on your controller! Some UI elements require using the D-Pad, so make sure it is bound separately to the joystick you're using!
+
+--HOW TO RUN THE GAME--
+1.  Open Heavy Mod Manager
+2.  In "Settings" at the top of the window, click "Choose Dolphin Path"
+3.  Link to your Dolphin.exe
+4.  After that, go back to "Settings" and click "Choose Dolphin User Folder Path..."
+5.  Link to your Dolphin user folder (If you can't find this, open Dolphin and go to File -> Open User Folder)
+6.  In Heavy Mod Manager, choose your game as "SpongeBob SquarePants: Battle for Bikini Bottom" and click "Create Backup"
+7.  Link to your SpongeBob SquarePants: Battle for Bikini Bottom .iso
+8.  Once that's done, HMM should be ready to run mods. Click "Add Mods" and link to the Battle for Bikini Bottom Deluxe ZIP folder
+9.  Hit "Launch Game" to run the game
+10. Have fun!
+
+--PERSONAL TIPS FROM GRAVITY--
+- Remember to take breaks and don't play for too long! This is a BIG adventure, longer than the original, so try to make sure you don't burn yourself out trying to see everything that BFBB Deluxe has to offer! Take your time!
+- The Deluxe menu features the task names for every new objective in the game, and can be viewed at any time. My advice? Don't read these, at least not right away. 
+  Play through the levels at your own leisure and discover the new goodies firsthand! Once you've done a lap of the level, then take a look for any tasks you may have missed. ;)
+- While 200% completion is obviously optional, I very strongly encourage going for it! This project was developed with 200% in mind, so I really hope you try your best to collect every last Golden Spatula!
+
+Enjoy!!! :D

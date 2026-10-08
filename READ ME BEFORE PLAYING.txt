@@ -14,6 +14,9 @@ In case you haven't read it already, here are the installation instructions!
 - An empty folder to store game files
 
 --IMPORTANT NOTES BEFORE SETUP--
+- DO NOT UPDATE YOUR GAME TO A NEW VERSION AND OPEN YOUR PREVIOUS SAVE FILE ON THE NEW VERSION.
+  Due to how Battle for Bikini Bottom functions internally, opening your save file on an updated version of the game has a very, very good chance to break internal functions and make collectables unobtainable and tasks incompletable.
+  Once you start your adventure, it is much, MUCH safer to stick to the same version from start to finish!!
 - Be sure to save often, use autosave, and use save states! While the game has been rigorously checked for crashes, it's totally possible I missed something. 
   Be aware that crashes may happen and you may lose progress if you aren't careful!
 - Following the last point, be sure to play with Panic Handlers enabled in Dolphin! If a crash does occur, you can try to hit "Ignore for this Session" and the game may continue like normal. 
